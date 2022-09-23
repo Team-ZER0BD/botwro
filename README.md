@@ -1,5 +1,5 @@
 # botwro
-Here we have the Bhangari1.zero, built to function perfectly on the WRO FE field, either with or without obstacles. Simulating analog sensors and OpenCV, the model car has enough features to drive itself around the field track for a few laps. 
+Here we have the Dumbbot1.0, built to function perfectly on the WRO FE field, either with or without obstacles. Simulating analog sensors and OpenCV, the model car has enough features to drive itself around the field track for a few laps. 
 
 
 Sonar sensor HC-Sr04 was used to finely identify the FE track's walls. As this category of sensors has a very narrow identifying range, we used one in the front and the other two inclined on both sides of our car. 
